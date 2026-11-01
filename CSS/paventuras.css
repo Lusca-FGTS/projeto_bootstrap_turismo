@@ -7,13 +7,3 @@
      height: 200px;
      object-fit: cover;
  }
-
- .btn-viagem {
-     background-color: #9d512f;
-     color: white;
- }
-
- .btn-viagem:hover {
-     background-color: #804126;
-     color: white;
- }
